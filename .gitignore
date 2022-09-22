@@ -1,10 +1,10 @@
 /.gradle/7.4/fileHashes/resourceHashesCache.bin
-/build/classes/java/main/n_queens_52/Solution$Queen.class
-/build/classes/java/main/n_queens_52/Solution.class
-/build/classes/java/main/two_add_2/Solution$ListNode.class
-/build/classes/java/main/two_add_2/Solution.class
-/build/classes/java/main/two_sums_1/Solution.class
-/build/classes/java/main/Solution.class
+/build/classes/java/main/n_queens_52/lengthOfLongestSubstring3.Solution$Queen.class
+/build/classes/java/main/n_queens_52/lengthOfLongestSubstring3.Solution.class
+/build/classes/java/main/two_add_2/lengthOfLongestSubstring3.Solution$ListNode.class
+/build/classes/java/main/two_add_2/lengthOfLongestSubstring3.Solution.class
+/build/classes/java/main/two_sums_1/lengthOfLongestSubstring3.Solution.class
+/build/classes/java/main/lengthOfLongestSubstring3.Solution.class
 /build/classes/java/test/SolutionTest.class
 /build/reports/tests/test/classes/SolutionTest.html
 /build/reports/tests/test/css/base-style.css
